@@ -1,0 +1,3 @@
+#banner-slider li{float:left;margin-right:10px;list-style:none;}
+#banner-slider li a{background-image:url('images/banner-slider.png');height:19px;width:19px;display:block;border:1px solid;}
+#banner-slider li.activeSlide a, #banner-slider li a:hover{background-image:url('images/banner-slider-hover.png');}
